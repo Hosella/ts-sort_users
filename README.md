@@ -1,0 +1,1 @@
+My first task on typescript, where array with Users sorts. Array can sort by age, name, surname, grades, married and also asc or desc.
